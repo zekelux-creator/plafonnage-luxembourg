@@ -1,1 +1,1 @@
-export default { fetch(request){ return fetch(request) } }
+export default {fetch:r=>fetch(r)}
