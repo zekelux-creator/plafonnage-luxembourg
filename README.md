@@ -1,2 +1,2 @@
-# plafonnage-luxembourg
-Site vitrine SRL KUS ZEKERIYA – plafonnage et façades Province de Luxembourg
+# Site KUS ZEKERIYA - Optimisé SEO 2026
+Déployer sur Cloudflare Pages ou GitHub Pages.
